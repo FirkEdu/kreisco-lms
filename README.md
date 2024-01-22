@@ -3,6 +3,8 @@ This is a LMS platform built in next.js with prisma as backend and many more api
 Make sure to install node.js then run npm i.
 After that add the following in .env file with all your api keys(app wont work without them)
 
+also unzip app and add the app folder to the main directory of the app
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 
